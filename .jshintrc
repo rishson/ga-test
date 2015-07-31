@@ -1,0 +1,26 @@
+{
+  "node": true,
+  "browser": true,
+  "esnext": true,
+  "bitwise": true,
+  "camelcase": false,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "immed": true,
+  "latedef": "nofunc",
+  "newcap": true,
+  "noarg": true,
+  "regexp": true,
+  "undef": true,
+  "unused": true,
+  "strict": false,
+  "trailing": true,
+
+  "smarttabs": true,
+  // inner funcs at top
+  "-W026": true,
+  // no `new Thing;`
+  "-W058": true
+}
+
