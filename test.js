@@ -1,6 +1,8 @@
-function ddd() {
-  console && console.log("cake");
-    a = "global";
-}
+  function ddd() {
+    console && console.log("cake");
+      a = "global";
+  }
 
 ddd()
+
+sth = "global var"
