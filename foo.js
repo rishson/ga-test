@@ -1,14 +1,14 @@
-  function ddd() {
-    console && console.log("cake");
-      a = "global";
-  }
+        function ddd() {
+          console && console.log("cake");
+            a = "global";
+        }
 
-ddd()
+      ddd()
 
-sth = "global var"
+      sth = "global var"
 
 
-adsfsdf
-    dsa
-fs
+      adsfsdf
+          dsa
+      fs
 
