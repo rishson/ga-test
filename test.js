@@ -6,13 +6,6 @@
 ddd()
 
 sth = "global var"
-
-
-adsfsdf
-    dsa
-fs
-  asdasd
-  asd
-  asd
-  
+sth = "global var"
+  sth = "global var"
 
